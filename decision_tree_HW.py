@@ -2,7 +2,6 @@
 """
 Created on Fri Sep 25 20:29:26 2020
 
-@author: jeehang
 
 Ackowledgement: https://www.python-course.eu/Decision_Trees.php
 """
