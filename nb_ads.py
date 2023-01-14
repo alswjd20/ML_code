@@ -2,7 +2,6 @@
 """
 Created on Sat Nov 13 12:05:37 2021
 
-@author: jeehang
 
 acknowledgement: https://www.analyticsvidhya.com/blog/2021/01/a-guide-to-the-naive-bayes-algorithm/
 """
